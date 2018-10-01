@@ -1,0 +1,3 @@
+﻿Simple Linear Regression
+
+In the beginning, I read the data from the CSL file. Divided the data into two parts: X-input and y-output. Then, using the library train_test_split, it divided X and y into four parts, such as: X-trian, X-test, y-test, y-trian. After that, we make a prediction with the help of the library of Linear Regression.
